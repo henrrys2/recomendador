@@ -1,0 +1,9 @@
+.navbar {
+    border-radius:  0px;
+    margin-bottom: 0px;
+}
+
+.content{
+    padding: 0px 12px;
+    max-width: 1980px !important;
+}
